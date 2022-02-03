@@ -50,5 +50,15 @@ https://another-dollar-studios.itch.io/another-day
 
 *Procedural Generation* : Generated mesh and shader in Unity and Shadergraph
 
+---
+
+Global Gam Jam 2022 (GGJ) : Developed a game with a team in a 48 hour window. 
+
+- Animation scripts
+- Post Processing
+- Events
+
+https://katie-campkin.itch.io/a-walk-home
+
 
 
