@@ -44,7 +44,14 @@ https://another-dollar-studios.itch.io/another-day
 
 **Y2:**
 
-*Hell Hockey* : Developed core gameplay including various projectile behaviours, phase sequencing, UI/UX design, playtesting, dialogue systems, various gameplay systems (movement/dodge/parry), post processing
+*Hell Hockey* : Developed core gameplay including:
+- Projectile behaviours
+- Phase sequencing
+- UI/UX design
+- Playtesting
+- Dialogue systems, 
+- Gameplay systems (movement/dodge/parry)
+- Post processing (Screen flash / Screen Shake)
 
 ---
 
@@ -54,8 +61,8 @@ https://another-dollar-studios.itch.io/another-day
 
 Global Gam Jam 2022 (GGJ) : Developed a game with a team in a 48 hour window. 
 
-- Animation scripts
-- Post Processing
+- Animation scripts (Walk cycles)
+- Post Processing (Progressive Vignette when in dark areas, clears when going into the light)
 - Events
 
 https://katie-campkin.itch.io/a-walk-home
