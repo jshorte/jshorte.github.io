@@ -16,6 +16,8 @@ I'm Jacob, I'm 32 years of age studying (BSc)Computing for Games at Falmouth Uni
 
 *Cube Runner* : A personal project created to help develop my key skills.
 
+[Playable Tutorial] (https://sharemygame.com/@Mo0mba/added-colours)
+
 ---
 
 **Y1:**
@@ -38,7 +40,7 @@ The idea of the game is to sow, grow and harvest plants. The controller consists
 
 **Another Day** : Developed the main logic for the game ensuring events trigger in order. Also developed post-processing and animations.
 
-https://another-dollar-studios.itch.io/another-day
+[Itch Page] (https://another-dollar-studios.itch.io/another-day)
 
 ---
 
@@ -65,7 +67,7 @@ Global Gam Jam 2022 (GGJ) : Developed a game with a team in a 48 hour window.
 - Post Processing (Progressive Vignette when in dark areas, clears when going into the light)
 - Events
 
-https://katie-campkin.itch.io/a-walk-home
+[Itch Page] (https://katie-campkin.itch.io/a-walk-home)
 
 
 
