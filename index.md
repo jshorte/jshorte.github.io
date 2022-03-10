@@ -1,9 +1,18 @@
 # Preface
-I'm Jacob, I'm 32 years of age studying (BSc)Computing for Games at Falmouth University. Here is a showcase of content I've produced both prior and during University.
+I'm Jacob, 32 years of age studying (BSc)Computing for Games at Falmouth University. Here is a showcase of content I've produced both prior and during University.
 
 # Content
 
 **Personal:**
+
+**Languages**
+
+- C++
+- C#
+- Python
+- LaTeX
+
+---
 
 *Udemy* : 
 
@@ -16,6 +25,10 @@ I'm Jacob, I'm 32 years of age studying (BSc)Computing for Games at Falmouth Uni
 
 *Cube Runner* : A personal project created to help develop my key skills.
 
+**Software**
+- Unity
+- Visual Studio
+
 [Playable Tutorial](https://sharemygame.com/@Mo0mba/added-colours)
 
 ---
@@ -26,11 +39,17 @@ I'm Jacob, I'm 32 years of age studying (BSc)Computing for Games at Falmouth Uni
 
 **Concept**
 
-The idea of the game is to sow, grow and harvest plants. The controller consists of a garden trowel and a watering can which are used in conjunction to achieve the games goal.
+The idea of the game is to sow, grow and harvest plants. 
+The controller consists of a garden trowel and a watering can which are used in conjunction to achieve the games goal.
 
 ///LINK TO SHOWCASE
 
-  **Components**
+**Software**
+- Uduino
+- Unity
+- Visual Studio
+
+**Components**
 - LEDs (Used to show game state eg. If current plant has light/water)
 - Hall Effect Sensors (Attached to the trowel and used for movement of the player character)
 - Water Sensor (To detect if a plant has been watered)
@@ -38,7 +57,7 @@ The idea of the game is to sow, grow and harvest plants. The controller consists
 
 ---
 
-**Another Day** : Developed the main logic for the game ensuring events trigger in order. Also developed post-processing and animations.
+**Another Day** : Developed the main logic for the game ensuring events trigger in order. I also developed the post-processing and animations.
 
 [Itch Page](https://another-dollar-studios.itch.io/another-day)
 
@@ -51,9 +70,13 @@ The idea of the game is to sow, grow and harvest plants. The controller consists
 - Phase sequencing
 - UI/UX design
 - Playtesting
-- Dialogue systems, 
-- Gameplay systems (movement/dodge/parry)
-- Post processing (Screen flash / Screen Shake)
+- Dialogue systems 
+- Gameplay systems (Movement / Dodge / Parry)
+- Post processing (Screen flash / Screen shake)
+
+**Software**
+- Unity
+- Visual Studio
 
 ---
 
@@ -64,8 +87,12 @@ The idea of the game is to sow, grow and harvest plants. The controller consists
 Global Gam Jam 2022 (GGJ) : Developed a game with a team in a 48 hour window. 
 
 - Animation scripts (Walk cycles)
-- Post Processing (Progressive Vignette when in dark areas, clears when going into the light)
+- Post Processing
 - Events
+
+**Software**
+- Unity
+- Visual Studio
 
 [Itch Page](https://katie-campkin.itch.io/a-walk-home)
 
