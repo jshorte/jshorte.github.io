@@ -82,7 +82,7 @@ The controller consists of a garden trowel and a watering can which are used in 
 
 ---
 
-Global Gam Jam 2022 (GGJ) : Developed a game with a team in a 48 hour window. 
+**Global Gam Jam 2022 (GGJ)** : Developed a game with a team in a 48 hour window. 
 
 - Animation scripts (Walk cycles)
 - Post Processing
