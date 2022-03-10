@@ -37,10 +37,9 @@ I'm Jacob, 32 years of age studying (BSc)Computing for Games at Falmouth Univers
 
 *Concept*
 
-The idea of the game is to sow, grow and harvest plants. 
-The controller consists of a garden trowel and a watering can which are used in conjunction to achieve the games goal.
+A game about sowing, growing and harvesting plants.
 
-///LINK TO SHOWCASE
+The controller consists of a garden trowel and a watering can which are used in tandem.
 
 *Software*
 - Uduino
