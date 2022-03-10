@@ -14,7 +14,7 @@ I'm Jacob, 32 years of age studying (BSc)Computing for Games at Falmouth Univers
 
 ---
 
-*Udemy* : 
+**Udemy** : 
 
 - Complete C# Unity Game Developer 2D Online Course
 - Unity RPG Core Combat Creator: Learn Intermediate C# Coding
@@ -23,9 +23,9 @@ I'm Jacob, 32 years of age studying (BSc)Computing for Games at Falmouth Univers
 
 ---
 
-*Cube Runner* : A personal project created to help develop my key skills.
+**Cube Runner** : A personal project created to help develop my key skills.
 
-**Software**
+*Software*
 - Unity
 - Visual Studio
 
@@ -35,21 +35,21 @@ I'm Jacob, 32 years of age studying (BSc)Computing for Games at Falmouth Univers
 
 **Y1:**
 
-*Custom Game Controller* : Designed a simple game to be used with a custom game controller using an Arduino. 
+**Custom Game Controller** : Designed a simple game to be used with a custom game controller using an Arduino. 
 
-**Concept**
+*Concept*
 
 The idea of the game is to sow, grow and harvest plants. 
 The controller consists of a garden trowel and a watering can which are used in conjunction to achieve the games goal.
 
 ///LINK TO SHOWCASE
 
-**Software**
+*Software*
 - Uduino
 - Unity
 - Visual Studio
 
-**Components**
+*Components*
 - LEDs (Used to show game state eg. If current plant has light/water)
 - Hall Effect Sensors (Attached to the trowel and used for movement of the player character)
 - Water Sensor (To detect if a plant has been watered)
@@ -74,13 +74,13 @@ The controller consists of a garden trowel and a watering can which are used in 
 - Gameplay systems (Movement / Dodge / Parry)
 - Post processing (Screen flash / Screen shake)
 
-**Software**
+*Software*
 - Unity
 - Visual Studio
 
 ---
 
-*Procedural Generation* : Generated mesh and shader in Unity and Shadergraph
+**Procedural Generation** : Generated mesh and shader in Unity and Shadergraph
 
 ---
 
@@ -90,7 +90,7 @@ Global Gam Jam 2022 (GGJ) : Developed a game with a team in a 48 hour window.
 - Post Processing
 - Events
 
-**Software**
+*Software*
 - Unity
 - Visual Studio
 
