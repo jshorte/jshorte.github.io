@@ -63,7 +63,9 @@ The controller consists of a garden trowel and a watering can which are used in 
 
 # Second Year
 
-*Hell Hockey* : Developed core gameplay including:
+**Hell Hockey** : Ice hockey influenced bullet hell
+
+*Contributions*
 - Projectile behaviours
 - Phase sequencing
 - UI/UX design
@@ -84,6 +86,7 @@ The controller consists of a garden trowel and a watering can which are used in 
 
 **Global Gam Jam 2022 (GGJ)** : Developed a game with a team in a 48 hour window. 
 
+*Contributions*
 - Animation scripts (Walk cycles)
 - Post Processing
 - Events
