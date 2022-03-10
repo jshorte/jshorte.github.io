@@ -1,9 +1,7 @@
 # Preface
 I'm Jacob, 32 years of age studying (BSc)Computing for Games at Falmouth University. Here is a showcase of content I've produced both prior and during University.
 
-# Content
-
-**Personal:**
+# Personal Work:
 
 **Languages**
 
@@ -33,7 +31,7 @@ I'm Jacob, 32 years of age studying (BSc)Computing for Games at Falmouth Univers
 
 ---
 
-**Y1:**
+# First Year
 
 **Custom Game Controller** : Designed a simple game to be used with a custom game controller using an Arduino. 
 
@@ -63,7 +61,7 @@ The controller consists of a garden trowel and a watering can which are used in 
 
 ---
 
-**Y2:**
+# Second Year
 
 *Hell Hockey* : Developed core gameplay including:
 - Projectile behaviours
