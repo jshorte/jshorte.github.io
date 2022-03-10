@@ -1,7 +1,7 @@
 # Preface
 I'm Jacob, 32 years of age studying (BSc)Computing for Games at Falmouth University. Here is a showcase of content I've produced both prior and during University.
 
-# Personal Work:
+# Personal Work
 
 **Languages**
 
