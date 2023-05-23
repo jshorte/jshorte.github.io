@@ -1,7 +1,5 @@
 # Preface
-I'm Jacob, 32 years of age studying (BSc)Computing for Games at Falmouth University. Here is a showcase of content I've produced both prior and during University.
-
-# Personal Work
+I'm Jacob, 34 years of age, currently in my final year studying (BSc)Computing for Games at Falmouth University. I have a passion for programming and creating games.
 
 **Languages**
 
@@ -9,29 +7,78 @@ I'm Jacob, 32 years of age studying (BSc)Computing for Games at Falmouth Univers
 - C#
 - Python
 - LaTeX
+- R
+- GLSL
+
+**Development Tools**
+
+- Unity
+- Unreal 
+- Visual Studio Code, 
+- Git 
+- Perforce
 
 ---
 
-**Udemy** : 
+# Projects
 
-- Complete C# Unity Game Developer 2D Online Course
-- Unity RPG Core Combat Creator: Learn Intermediate C# Coding
-- Unity RPG Inventory Systems: Intermediate C# Game Coding Course
-- Get Git Smart Course: Learn Git in Unity, SourceTree, GitHub
+**SpiritSweeper** : 3rd Person Isometric game based on cleaning and customisation
 
----
-
-**Cube Runner** : A personal project created to help develop my key skills.
+*Contributions*
+- Programmed all featured puzzles
+- Implimented core gameplay mechanics
+- Created a custom inventory system
+- Utilised DOTween to create programmatic animations
 
 *Software*
 - Unity
-- Visual Studio
-
-[Playable Tutorial](https://sharemygame.com/@Mo0mba/added-colours)
+- 
+[Itch Page](https://strange-folk-studios.itch.io/spiritsweeper)
 
 ---
 
-# First Year
+**Another Day** : Narrative-based simulation
+
+*Contributions*
+- Created animations Using unity’s features
+- Created managers to execute progress-based events
+- Used Unity’s post-processing features
+
+*Software*
+- Unity
+
+[Itch Page](https://another-dollar-studios.itch.io/another-day)
+
+---
+
+**Godsoul** : Roguelike Deckbuilder
+
+*Contributions*
+- Programmed battle gameplay
+- Created and implimented animiations
+- Implimented UI
+- Playtesting
+
+*Software*
+- Unity
+- 
+---
+
+**Hell Hockey** : Ice hockey influenced bullet hell
+
+*Contributions*
+- Projectile behaviours
+- Phase sequencing
+- UI/UX design
+- Playtesting
+- Dialogue systems 
+- Gameplay systems (Movement / Dodge / Parry)
+- Post processing (Screen flash / Screen shake)
+
+*Software*
+- Unity
+
+---
 
 **Custom Game Controller** : Designed a simple game to be used with a custom game controller using an Arduino. 
 
@@ -54,36 +101,40 @@ The controller consists of a garden trowel and a watering can which are used in 
 
 ---
 
-**Another Day** : Developed the main logic for the game ensuring events trigger in order. I also developed the post-processing and animations.
-
-[Itch Page](https://another-dollar-studios.itch.io/another-day)
-
----
-
-# Second Year
-
-**Hell Hockey** : Ice hockey influenced bullet hell
-
-*Contributions*
-- Projectile behaviours
-- Phase sequencing
-- UI/UX design
-- Playtesting
-- Dialogue systems 
-- Gameplay systems (Movement / Dodge / Parry)
-- Post processing (Screen flash / Screen shake)
+**Procedural Generation** : Generated procedural mesh and shader in Unity and Shadergraph. Also created shaders using GLSL.
 
 *Software*
 - Unity
-- Visual Studio
+- Visual Studio (SDL2, GLEW, GLSL)
 
 ---
 
-**Procedural Generation** : Generated mesh and shader in Unity and Shadergraph
+**Cube Runner** : An old personal project created to help develop my key skills.
+
+*Software*
+- Unity (Cinemachine)
+
+[Playable Tutorial](https://sharemygame.com/@Mo0mba/added-colours)
 
 ---
 
-**Global Gam Jam 2022 (GGJ)** : Developed a game with a team in a 48 hour window. 
+# Game Jams
+
+**Skrunkly Joe and the quest for moisture  - Global Gam Jam 2023** : Developed a game with a team in a 48 hour window. 
+
+*Contributions*
+- UI Integration
+- Gameplay
+- Events
+
+*Software*
+- Unity
+
+[Itch Page](https://skrunklyjoe.itch.io/skrunkly-joe-and-the-quest-for-moisture)
+
+---
+
+**A Walk Home - Global Gam Jam 2022** : Developed a game with a team in a 48 hour window. 
 
 *Contributions*
 - Animation scripts (Walk cycles)
@@ -92,9 +143,17 @@ The controller consists of a garden trowel and a watering can which are used in 
 
 *Software*
 - Unity
-- Visual Studio
 
 [Itch Page](https://katie-campkin.itch.io/a-walk-home)
+
+---
+
+**Courses** : 
+
+- Complete C# Unity Game Developer 2D Online Course
+- Unity RPG Core Combat Creator: Learn Intermediate C# Coding
+- Unity RPG Inventory Systems: Intermediate C# Game Coding Course
+- Get Git Smart Course: Learn Git in Unity, SourceTree, GitHub
 
 
 
