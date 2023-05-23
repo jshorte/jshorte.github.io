@@ -32,7 +32,7 @@ I'm Jacob, 34 years of age, currently in my final year studying (BSc)Computing f
 
 *Software*
 - Unity
-- 
+ 
 [Itch Page](https://strange-folk-studios.itch.io/spiritsweeper)
 
 ---
@@ -61,7 +61,7 @@ I'm Jacob, 34 years of age, currently in my final year studying (BSc)Computing f
 
 *Software*
 - Unity
-- 
+
 ---
 
 **Hell Hockey** : Ice hockey influenced bullet hell
