@@ -54,7 +54,7 @@ Most commercially viable product
 
 ---
 
-**Another Day** (2001): Narrative-based simulation
+**Another Day** (2021): Narrative-based simulation
 
 *Contributions*
 - Created animations Using unity’s features
@@ -73,7 +73,7 @@ Most commercially viable product
 
 ---
 
-**Godsoul** (2002): Roguelike Deckbuilder
+**Godsoul** (2022): Roguelike Deckbuilder
 
 *Contributions*
 - Programmed battle gameplay
@@ -88,7 +88,7 @@ Most commercially viable product
 
 ---
 
-**Hell Hockey** (2001): Ice hockey influenced bullet hell
+**Hell Hockey** (2021): Ice hockey influenced bullet hell
 
 *Contributions*
 - Projectile behaviours
@@ -104,7 +104,7 @@ Most commercially viable product
 
 ---
 
-**Custom Game Controller** (2001): Designed a simple game to be used with a custom game controller using an Arduino. 
+**Custom Game Controller** (2021): Designed a simple game to be used with a custom game controller using an Arduino. 
 
 *Concept*
 
@@ -125,7 +125,7 @@ The controller consists of a garden trowel and a watering can which are used in 
 
 ---
 
-**Shaders** : Created shaders in OpenGL (GLSL)
+**Shaders** (2021): Created shaders in OpenGL (GLSL)
 
 - Camera controller using model view projection displayed through SDL
 - Fragment and vertex shaders created using glsl
@@ -135,7 +135,7 @@ The controller consists of a garden trowel and a watering can which are used in 
 
 ---
 
-**Cube Runner** (2000): An old personal project created to help develop my key skills.
+**Cube Runner** (2020): An old personal project created to help develop my key skills.
 
 *Software*
 - Unity (Cinemachine)
