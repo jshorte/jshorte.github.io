@@ -127,7 +127,7 @@ The controller consists of a garden trowel and a watering can which are used in 
 - Fragment and vertex shaders created using glsl
 
 *Software + Libraries*
-- Visual Studio (SDL2, GLEW, GLSL, CMake)
+- Visual Studio (SDL2, GLEW, GLSL, CMake, Assimp)
 
 ---
 
