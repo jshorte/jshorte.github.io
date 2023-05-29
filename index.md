@@ -1,5 +1,5 @@
 # Preface
-I'm Jacob, 34 years of age, currently in my final year studying (BSc)Computing for Games at Falmouth University. I have a passion for programming and creating games.
+I'm Jacob, currently in my final year studying (BSc)Computing for Games at Falmouth University. I have a passion for programming and creating games.
 
 **Languages**
 
@@ -22,7 +22,17 @@ I'm Jacob, 34 years of age, currently in my final year studying (BSc)Computing f
 
 # Projects
 
-**SpiritSweeper** : 3rd Person Isometric game based on cleaning and customisation
+**Dissertation** (2023): *"How does player-centric procedural content generation affect game experience?"*
+
+- Created an artefact to conduct A/B testing
+- Employed a Probabilistic multi-pass algorithm to populate terrain, enemies, obstacles and collectables
+- Created an interface allowing participants to determine parameters for the procedural generation algorithm
+- Created AI for enemies
+- Analysed questionnaire and gameplay data using R
+
+---
+
+**SpiritSweeper** (2023): 3rd Person Isometric game based on cleaning and customisation
 
 *Contributions*
 - Programmed all featured puzzles
@@ -35,9 +45,12 @@ I'm Jacob, 34 years of age, currently in my final year studying (BSc)Computing f
 
 [Itch Page](https://strange-folk-studios.itch.io/spiritsweeper)
 
+*Accolades*
+Most commercially viable product 
+
 ---
 
-**Another Day** : Narrative-based simulation
+**Another Day** (2001): Narrative-based simulation
 
 *Contributions*
 - Created animations Using unity’s features
@@ -47,11 +60,16 @@ I'm Jacob, 34 years of age, currently in my final year studying (BSc)Computing f
 *Software*
 - Unity
 
+*Accolades*
+- People's choice: Best first year game
+- Featured article on the Safe In Our World's website (https://safeinourworld.org/news/another-day-another-interview/)
+- Part of Falmouth Universities G7 Exhibition
+
 [Itch Page](https://another-dollar-studios.itch.io/another-day)
 
 ---
 
-**Godsoul** : Roguelike Deckbuilder
+**Godsoul** (2002): Roguelike Deckbuilder
 
 *Contributions*
 - Programmed battle gameplay
@@ -66,7 +84,7 @@ I'm Jacob, 34 years of age, currently in my final year studying (BSc)Computing f
 
 ---
 
-**Hell Hockey** : Ice hockey influenced bullet hell
+**Hell Hockey** (2001): Ice hockey influenced bullet hell
 
 *Contributions*
 - Projectile behaviours
@@ -82,7 +100,7 @@ I'm Jacob, 34 years of age, currently in my final year studying (BSc)Computing f
 
 ---
 
-**Custom Game Controller** : Designed a simple game to be used with a custom game controller using an Arduino. 
+**Custom Game Controller** (2001): Designed a simple game to be used with a custom game controller using an Arduino. 
 
 *Concept*
 
@@ -103,15 +121,17 @@ The controller consists of a garden trowel and a watering can which are used in 
 
 ---
 
-**Procedural Generation** : Generated procedural mesh and shader in Unity and Shadergraph. Also created shaders using GLSL.
+**Shaders** : Created shaders in OpenGL (GLSL)
 
-*Software*
-- Unity
-- Visual Studio (SDL2, GLEW, GLSL)
+- Camera controller using model view projection displayed through SDL
+- Fragment and vertex shaders created using glsl
+
+*Software + Libraries*
+- Visual Studio (SDL2, GLEW, GLSL, CMake)
 
 ---
 
-**Cube Runner** : An old personal project created to help develop my key skills.
+**Cube Runner** (2000): An old personal project created to help develop my key skills.
 
 *Software*
 - Unity (Cinemachine)
