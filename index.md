@@ -30,6 +30,10 @@ I'm Jacob, currently in my final year studying (BSc)Computing for Games at Falmo
 - Created AI for enemies
 - Analysed questionnaire and gameplay data using R
 
+*Software*
+- Unity
+- R Studio
+
 ---
 
 **SpiritSweeper** (2023): 3rd Person Isometric game based on cleaning and customisation
