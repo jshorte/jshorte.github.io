@@ -1,22 +1,22 @@
 # Preface
-I'm Jacob, currently in my final year studying (BSc)Computing for Games at Falmouth University. I have a passion for programming and creating games.
+I'm Jacob, Having graduated with a 2:1 in (BSc)Computing for Game I'm currently working as a Full-Stack Developer (PHP/Javascript/CSS). When I'm not working I'm working on my next game project!
 
 **Languages**
 
-- C++
+- PHP
+- Javascipt
 - C#
+- C++
 - Python
+- GDScript
 - LaTeX
 - R
-- GLSL
 
 **Development Tools**
 
-- Unity
-- Unreal 
-- Visual Studio Code, 
-- Git 
-- Perforce
+- Engines: Unity, Godot, Unreal
+- IDEs: Visual Studio, VSCode, PHPStorm
+- Version Control: Git, Perforce
 
 ---
 
