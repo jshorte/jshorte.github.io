@@ -5,6 +5,7 @@ I'm Jacob, Having graduated with a 2:1 in (BSc)Computing for Game I'm currently 
 
 - PHP
 - Javascipt
+- CSS
 - C#
 - C++
 - Python
